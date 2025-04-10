@@ -1,7 +1,7 @@
 {
   "name": "lureporter",
   "version": "0.1.0",
-  "homepage": "https://<your-username>.github.io/<your-repo-name>",
+  "homepage": "https://emma-eu.github.io/LU_Reporter",
   "private": true,
   "dependencies": {
     "@arcgis/core": "^4.32.10",
